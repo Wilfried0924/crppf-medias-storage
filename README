@@ -1,1 +1,14 @@
 Initialisation
+
+## Génération DRY de `files.json`
+
+Ce dépôt maintient une source compacte `files.src.json` et génère automatiquement `files.json`.
+
+Commandes:
+
+- Générer:
+	- Node.js: `node tools/generate-files-json.js`
+- Vérifier si à jour (CI):
+	- Node.js: `node tools/generate-files-json.js --check`
+
+Modifiez uniquement `files.src.json` (baseUrl, années, catégories, fichiers). Le script reconstruit `files.json` avec les URLs.

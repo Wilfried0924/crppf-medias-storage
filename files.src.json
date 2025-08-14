@@ -1,0 +1,53 @@
+{
+  "baseUrl": "https://raw.githubusercontent.com/Wilfried0924/crppf-medias-storage/main",
+  "years": {
+    "2025": {
+      "messages": {
+        "remotePath": "messages/2025",
+        "ext": "mp3",
+        "files": [
+          "CRPPF 2025 - Message 1er JOUR",
+          "CRPPF 2025 - Message 2e JOUR",
+          "CRPPF 2025 - Message 3e JOUR",
+          "CRPPF 2025 - Message 4e JOUR",
+          "CRPPF 2025 - Message 5e JOUR",
+          "CRPPF 2025 - Message 6e JOUR",
+          "CRPPF 2025 - Message 7e JOUR",
+          "CRPPF 2025 - Message 8e JOUR",
+          "CRPPF 2025 - Message 9e JOUR",
+          "CRPPF 2025 - Message 10e JOUR",
+          "CRPPF 2025 - Message 11e JOUR",
+          "CRPPF 2025 - Message 12e JOUR",
+          "CRPPF 2025 - Message 13e JOUR",
+          "CRPPF 2025 - Message 14e JOUR",
+          "CRPPF 2025 - Message 15e JOUR",
+          "CRPPF 2025 - Message 16e JOUR",
+          "CRPPF 2025 - Message 17e JOUR",
+          "CRPPF 2025 - Message 18e JOUR",
+          "CRPPF 2025 - Message 19e JOUR",
+          "CRPPF 2025 - Message 20e JOUR",
+          "CRPPF 2025 - Message 21e JOUR",
+          "CRPPF 2025 - Message 22e JOUR",
+          "CRPPF 2025 - Message 23e JOUR",
+          "CRPPF 2025 - Message 24e JOUR",
+          "CRPPF 2025 - Message 25e JOUR",
+          "CRPPF 2025 - Message 26e JOUR",
+          "CRPPF 2025 - Message 27e JOUR",
+          "CRPPF 2025 - Message 28e JOUR",
+          "CRPPF 2025 - Message 29e JOUR",
+          "CRPPF 2025 - Message 30e JOUR",
+          "CRPPF 2025 - Message 31e JOUR",
+          "CRPPF 2025 - Message 32e JOUR",
+          "CRPPF 2025 - Message 33e JOUR",
+          "CRPPF 2025 - Message 34e JOUR",
+          "CRPPF 2025 - Message 35e JOUR",
+          "CRPPF 2025 - Message 36e JOUR",
+          "CRPPF 2025 - Message 37e JOUR",
+          "CRPPF 2025 - Message 38e JOUR",
+          "CRPPF 2025 - Message 39e JOUR",
+          "CRPPF 2025 - Message 40e JOUR"
+        ]
+      }
+    }
+  }
+}
